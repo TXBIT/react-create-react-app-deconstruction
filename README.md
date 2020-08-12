@@ -1,0 +1,1 @@
+# Deconstructing create-react-app with webpack and babel. Experimenting code splitting from webpack
